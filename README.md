@@ -9,6 +9,7 @@
 [![ReiselRol7 on Itch.io](https://img.shields.io/badge/Itch.io-ReiselRol7-green?logo=itch.io)](https://reiselrol7.itch.io)
 [![npm](https://img.shields.io/badge/npm-Reisel_Rol_7-blue?logo=npm)](https://www.npmjs.com/~reisel_rol_7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramon_Rios-blue?logo=linkedin)](https://www.linkedin.com/in/ramon-rios-gomez-0078bb269/)
+[![wakatime](https://wakatime.com/badge/user/20802f90-8ac1-4280-9bb6-42244a66ffe8.svg)](https://wakatime.com/@20802f90-8ac1-4280-9bb6-42244a66ffe8)
 
 
 
