@@ -84,6 +84,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
+    [![GitHub Streak](https://streak-stats.demolab.com/?user=ReiselRol&theme=dark)](https://git.io/streak-stats)
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ReiselRol&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ReiselRol&layout=compact&langs_count=8&theme=dark"/>
 </p>
